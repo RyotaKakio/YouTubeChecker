@@ -1,0 +1,9 @@
+streamlit
+google-api-python-client
+python-dotenv
+youtube-transcript-api
+whisper
+pytube
+yt-dlp
+tensorflow
+pillow
