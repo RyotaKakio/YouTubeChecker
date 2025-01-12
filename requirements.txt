@@ -7,4 +7,4 @@ pytube
 yt-dlp
 tensorflow
 pillow
-opencv-python
+opencv-python-headless
